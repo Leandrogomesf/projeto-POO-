@@ -1,8 +1,8 @@
-# Projeto de Programação orientada a objetos - POO
+# Projeto de sistema bancário - Programação orientada a objetos - POO
 
 Projeto de conclusão do curso de Desenvolvimento Orientada a Objetos Utilizando a Linguagem Python
 
-Este é um projeto simples que conta com a criação de três arquivos ".py": Main.py, Cliente.py e Conta.py. Os dois últimos contêm as infomações das classes e objetos. Bem como os métodos e funções aceitos para cada objeto.
+Este é um projeto simples que conta com a criação de um sistema bancário para operações simples. Contêm três arquivos ".py": Main.py, Cliente.py e Conta.py. Os dois últimos contêm as infomações das classes e objetos. Bem como os métodos e funções aceitos para cada objeto.
 
 O arquivo Main.py.: recupera os objetos das classes Cliente e Conta; inseri alguns dados para as classes segundo seus atributos, e; a partir dos métodos, retornar informações e realiza operações simpples de adição e subtração.
 
